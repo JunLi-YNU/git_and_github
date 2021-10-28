@@ -14,3 +14,6 @@
 > 查看本地分支 git branch 
 > 查看远程分支 git branch -v
 > 查看所有分支 git branch -a
+
+## 仓库管理
+> 本地新建的仓库连接远程仓库 git remote add origin "远程仓库地址"
